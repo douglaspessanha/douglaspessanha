@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/douglas-pessanha-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=machine-learning&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 
 <!--
